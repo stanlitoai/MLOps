@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anonymous/PycharmProjects/MLOps/mlruns/0/ef2cc9bff5ac4aeaa828c5db41b7ae54/artifacts
+end_time: 1693582624168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef2cc9bff5ac4aeaa828c5db41b7ae54
+run_name: thundering-crab-98
+run_uuid: ef2cc9bff5ac4aeaa828c5db41b7ae54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693582621168
+status: 3
+tags: []
+user_id: anonymous
